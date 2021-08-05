@@ -1,1 +1,1 @@
-# COVID-19-CLI
+# Registration CLI
